@@ -10,3 +10,5 @@
 - IntelliJを使った手順
 - VSCodeを使った手順
 
+試しにFork, Pull requestをさせていただきます。
+
